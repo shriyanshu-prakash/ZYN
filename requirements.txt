@@ -1,0 +1,6 @@
+pyserial
+SpeechRecognition
+ollama
+pygame
+gTTS
+pyaudio
