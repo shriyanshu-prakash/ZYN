@@ -16,3 +16,11 @@ ZYN is an AI voice assistant built using Python, Arduino, Ollama (Llama 3), spee
 - gTTS
 - PySerial
 - Arduino
+
+## How It Works
+
+1. Press the Arduino button
+2. ZYN starts listening
+3. User speaks
+4. Llama 3 generates a response
+5. ZYN replies using text-to-speechg
